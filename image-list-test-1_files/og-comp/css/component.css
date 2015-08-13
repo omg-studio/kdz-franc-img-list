@@ -68,7 +68,7 @@
 	width: 100%;
 	top: 50%;
 	height: 1px;
-	background: #888;
+	background: #FFF;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	transform: rotate(45deg);
@@ -82,7 +82,7 @@
 
 .og-close:hover::before,
 .og-close:hover::after {
-	background: #333;
+	background: #FFA519;
 }
 
 .og-fullimg,
