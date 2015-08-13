@@ -109,8 +109,9 @@
 }
 
 .og-details h3 {
-	font-weight: 300;
-	font-size: 52px;
+	color:#FFF;
+	font-weight: 500;
+    font-size: 1.8em;
 	padding: 40px 0 10px;
 	margin-bottom: 10px;
 }
